@@ -1,0 +1,5 @@
+dev-data/img/
+node_modules/
+**.jpg
+**.png
+**.svg
